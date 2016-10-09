@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.niantic.pkmgofree</string>
 				<key>bundle-version</key>
-				<string>0.37.1</string>
+				<string>0.39.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
