@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/b8q2bh8cox4p8qm/jxsj.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/d9jnrxfr5gv8hz3/jxsj.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,9 +25,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.niantic.pkmgofree</string>
+				<string>com.xsg.jianxiashijie3D</string>
 				<key>bundle-version</key>
-				<string>1.2.2838</string>
+				<string>1.2.3119</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
